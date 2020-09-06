@@ -1,3 +1,3 @@
-# Recommender-System-
+# recommender-system
 
 Our proposed solution is a segment of one approach that enhances new and repeat NEOM visitors' experiences in exploring the city and learning more about local businesses/culture by visiting locations that are recommended to them through an increasingly personalized recommender system that captures patterns and habits of each visitor. In addition, the system guarantees the exposure of NEOM businesses to the targeted customers which will encourage more businesses to open at NEOM. AI is utilized to build a recommendation engine with collaborative filtering to recommend places that a user might like based on patterns of similar users. In addition, AI is used to provide a transparent rating system that reflects the true nature of the place’s quality. 
